@@ -1,2 +1,71 @@
-# mining--natural-resources-project-template-and-scaffolding-vs-code-extension
-Initialize projects with best-practice structure, configs, and CI/CD templates. Skip 2 hours of project setup every time.
+# Mining & Natural Resources Project Template and Scaffolding VS Code Extension
+
+> Initialize projects with best-practice structure, configs, and CI/CD templates. Skip 2 hours of project setup every time.
+
+## Features
+
+- Core functionality
+
+## Installation
+
+### From VS Code Marketplace
+1. Open VS Code
+2. Press `Ctrl+P` (or `Cmd+P` on Mac)
+3. Type `ext install digitalforge.6564b349`
+4. Press Enter
+
+### From VSIX file
+1. Download the `.vsix` file
+2. In VS Code: `Extensions > ··· > Install from VSIX`
+3. Select the downloaded file
+
+## Usage
+
+Press `Ctrl+Shift+P` and search for `Mining & Natural Resources Project Template and Scaffolding VS Code Extension` to see all available commands.
+
+**Keyboard shortcut:** `Ctrl+Shift+Alt+A` (or `Cmd+Shift+Alt+A` on Mac)
+
+## Settings
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `6564b349.enabled` | `true` | Enable/disable the extension |
+| `6564b349.autoRun` | `false` | Auto-run on file open |
+| `6564b349.logLevel` | `"info"` | Log verbosity |
+
+## Requirements
+
+- VS Code 1.74.0 or higher
+
+## Contributing
+
+Found a bug? [Open an issue](https://github.com/digitalforge/6564b349/issues).
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | Yes | Yes |
+| Basic snippets | Yes | Yes |
+| Standard themes | Yes | Yes |
+| AI-powered completions | - | Yes |
+| Advanced refactoring | - | Yes |
+| Team sync | - | Yes |
+| Custom keybindings | - | Yes |
+| Priority bug fixes | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm14neTt5wg09a8nGd0q0d)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm14neTt5wg09a8nGd0q0d)
+
